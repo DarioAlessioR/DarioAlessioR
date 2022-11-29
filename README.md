@@ -20,10 +20,10 @@ Slack: [Dario Alessio](https://microverse-students.slack.com/team/U039GCFRK9B)
 
 - Pronouns: He / Him
 
-- ⚡ Fun fact: Yes, I took the above picture. It's the dawn viewed from my home at Caracas.
-
 - Some stats:
+
 [![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=darioalessior)](https://github.com/darioalessior/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darioalessior)](https://github.com/darioalessior/github-readme-stats)
 
+- ⚡ Fun fact: Yes, I took the above picture. It's the dawn viewed from my home at Caracas.
