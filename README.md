@@ -1,4 +1,4 @@
-[](/DarioAlessio.png)
+[](.DarioAlessio.png)
 
 
 ### Hi there 👋
