@@ -1,3 +1,6 @@
+[](./Dario%20Alessio.png)
+
+
 ### Hi there 👋
 
 
