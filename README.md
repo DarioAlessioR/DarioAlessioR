@@ -1,5 +1,5 @@
 [](.DarioAlessio.png)
-
+https://github.com/DarioAlessioR/DarioAlessioR/blob/835c6d9e294ffaa56e3a422afe0bff5a78df818a/DarioAlessio.png
 
 ### Hi there 👋
 
