@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 - I enjoy interaction with partners, clients or directors as well.
 - I like a lot working in teams and making new friends out of my team's partners.
 - 📫 How to reach me: 
-GitHub: https://github.com/DarioAlessioR
-Slack: https://microverse-students.slack.com/team/U039GCFRK9B
-LinkedIn: https://www.linkedin.com/in/dario-alessio-3a3b7911b
+GitHub: [Dario Alessio](https://github.com/DarioAlessioR)
+
+Slack: [Dario Alessio](https://microverse-students.slack.com/team/U039GCFRK9B)
+
+LinkedIn: [Dario Alessio](https://www.linkedin.com/in/dario-alessio-3a3b7911b)
+
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Yes, I took the above picture. It's the dawn viewed from my home at Caracas.
 
