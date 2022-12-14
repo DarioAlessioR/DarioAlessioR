@@ -1,4 +1,4 @@
-![](DarioAlessio.png)
+![](dario-portal.png)
 ### Hi there 👋
 
 - I’m a Full-Stack Developer graduated from Microverse academy.
