@@ -12,7 +12,7 @@
 - I like working in teams and making new friends out of my team's partners.
 - 📫 How to reach me: 
 
-LinkedIn: [Dario Alessio](https://www.linkedin.com/in/dario-alessio-3a3b7911b)
+LinkedIn: [Dario Alessio](https://www.linkedin.com/in/dario-alessio-3a3b7911b/?locale=en_US)
 
 GitHub: [Dario Alessio](https://github.com/DarioAlessioR)
 
