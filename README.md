@@ -5,7 +5,7 @@
 - I work remotely as `Ruby on Rails` developer for an international startup.
 - I have experience with: `Ruby on Rails` `API Documentation` `Ruby` `JavaScript` `React` `Redux` `HTML/CSS` `Rspec` `Gitflow` `PostgreSQL` `Kanban` `Trello`.
 - I have coded more than `2300 hrs` on projects with international partners from around the world.
-- I have years of experience as a Product Owner` / `Product Manager` in the financial industry (I've been "the client" so many times). 
+- I have years of experience as a `Product Owner` / `Product Manager` in the financial industry (I've been "the client" so many times). 
 - I speak `English`, `Spanish` and `Italian`, and read `French`.
 - I'm also a `Mechanical Engineer` and `MBA`.
 - I enjoy `interaction` / `communication` with partners, clients, or directors as well.
