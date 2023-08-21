@@ -26,4 +26,4 @@ Slack: [Dario Alessio](https://microverse-students.slack.com/team/U039GCFRK9B)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darioalessior)](https://github.com/darioalessior/github-readme-stats)
 
-- ⚡ Fun fact: Yes, I took the above picture. It's the dawn viewed from my home at Caracas.
+- ⚡ Fun fact: Yes, I took the above picture. It's the dawn viewed from my home.
